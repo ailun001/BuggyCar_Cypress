@@ -2,6 +2,10 @@
 - This Testing using Cypress for [Buggy Cars Rating ](https://buggy.justtestit.org/)
 > BuggyCars allows users to view and rate various buggy cars, providing a platform for users to analyze and vote on different aspects of the car.
 
+## Pre-requisites
+- Visual Studio Code
+- Cypress (8.15.0)
+- Chrome
 
 ##  Geting Start:
 ---
