@@ -5,6 +5,8 @@
 ## Pre-requisites
 - Visual Studio Code
 - Cypress (8.15.0)
+- Node.js
+- npm
 - Chrome
 
 ##  Geting Start:
