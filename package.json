@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^12.8.1"
+  }
+}
